@@ -43,7 +43,7 @@ if (!$result) {
 </head>
 <body>
 
-    <h1>Simple Forum</h1>
+    <h1>Simple Forum - Modified by WH</h1>
 
     <h2>Create a Post</h2>
 
